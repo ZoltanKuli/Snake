@@ -1,11 +1,11 @@
 # The Story Behind Snake
 
-I made Snake during the fall of 2020 for my second web development class.
+I made Snake for my Software Technology class during the fall of 2020.
 
-The main idea behind this project was to start learning JavaScript and getting more comfortable with it.
+What was really interesting about this project is that I managed to create a Java Swing GUI that doesn't strikingly look like a Java Swing GUI.
 
-This was a simple project, but I did get better at JavaScript because of it, and it was fun making a game that was similar to an iconic part of my childhood.
+First of all, the game window is in fullscreen, and it successfully adapts to different screen sizes and resolutions.
 
-I would sometimes play the classic Snake on my parent's Nokia phone when I was young. And it felt nice trying to recreate that experience.
+What's more, I implemented my own menu system and used a library called FlatLaf to make the whole experience just a little more aesthetically pleasing.
 
-Of course, nothing will have quite the feel of the original:)
+And to top it all that, in the main menu's background, the top 100 previous attempts are replayed.
