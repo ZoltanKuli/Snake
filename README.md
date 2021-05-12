@@ -1,6 +1,6 @@
 # The Story Behind Snake
 
-I made Snake for my Software Technology class during the fall of 2020.
+I made Snake for my Programming Technology class during the fall of 2020.
 
 What was really interesting about this project is that I managed to create a Java Swing GUI that doesn't strikingly look like a Java Swing GUI.
 
