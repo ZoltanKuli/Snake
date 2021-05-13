@@ -18,7 +18,7 @@ My goal was to create an enjoyable game and create a GUI that didn't look like a
 <img align="centre" alt="Snake Screenshot" src="images/game_13.jpg">
 
 # Skills Demonstrated
-* Built a Java-based game engine from scratch, which was used to create a fully functional 2D gaming experience.
+* Built a Java-based game engine from scratch, which I used to create a fully functional 2D gaming experience.
 * Created a full-screen Swing GUI using the library called FlatLaf.
 * Built the game in a way that enables it to adapt to different screen sizes and resolutions.
 * Implemented a ranking system for the top 100 attempts at beating the game using MySQL.
