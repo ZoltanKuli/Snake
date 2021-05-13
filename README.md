@@ -1,7 +1,7 @@
 # Snake
 I made Snake for my Programming Technology class during the fall of 2020.
 
-My goal was to create an enjoyable game and create a Swing GUI that didn't look like a traditional Swing GUI.
+My goal was to create an enjoyable game and create a GUI that didn't look like a traditional Swing GUI.
 
 <img align="centre" alt="Snake Screenshot" src="images/game_01.jpg">
 <img align="centre" alt="Snake Screenshot" src="images/game_02.jpg">
