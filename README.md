@@ -28,6 +28,7 @@ My goal was to create an enjoyable game with a nice-looking Swing GUI.
 * Java
 * Java Swing
 * MySQL
+* FlatLaf
 
 # Impact
 * The game exceeded the requirements, and my tutor really liked it.
