@@ -27,8 +27,9 @@ My goal was to create an enjoyable game with a nice-looking Swing GUI.
 # Technologies Used
 * Java
 * Java Swing
-* MySQL
 * FlatLaf
+* MySQL
+* IntelliJ IDEA
 
 # Impact
 * The game exceeded the requirements, and my tutor really liked it.
