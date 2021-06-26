@@ -32,4 +32,4 @@ My goal was to create an enjoyable game with a nice-looking Swing GUI.
 * IntelliJ IDEA
 
 # Impact
-* The game exceeded the requirements, and my tutor really liked it.
+The game exceeded the requirements, and my tutor found it very good.
