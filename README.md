@@ -17,7 +17,7 @@ My goal was to create an enjoyable game with a nice-looking Swing GUI.
 <img align="centre" alt="Snake Screenshot" src="images/game_12.jpg">
 <img align="centre" alt="Snake Screenshot" src="images/game_13.jpg">
 
-# Skills Demonstrated
+# Highlights
 * Built a Java-based game engine from scratch, which I used to create a fully functional 2D gaming experience.
 * Created a full-screen Swing GUI using the library called FlatLaf.
 * Built the game in a way that enables it to adapt to different screen sizes and resolutions.
@@ -29,7 +29,3 @@ My goal was to create an enjoyable game with a nice-looking Swing GUI.
 * Java Swing
 * FlatLaf
 * MySQL
-* IntelliJ IDEA
-
-# Impact
-The game exceeded the requirements, and my tutor found it very good.
